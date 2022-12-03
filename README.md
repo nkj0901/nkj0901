@@ -2,7 +2,7 @@
 
 #### I am currently studying at "SAMSUNG SW ACADEMY FOR YOUTH".
 
-#### I'm studying both the back-end and the front-end. It hasn't been long since I started, but I'm growing faster than anyone else. Please keep an eye on me.
+#### I'm studying both back-end and front-end. It hasn't been long since I started, but I'm growing faster than anyone else. Please keep an eye on me.
 
 
 ## Languages and tools
