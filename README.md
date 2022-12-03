@@ -5,7 +5,7 @@
 #### I'm studying both the back-end and the front-end. It hasn't been long since I started, but I'm growing faster than anyone else. Please keep an eye on me.
 
 
-## languages and tools
+## Languages and tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
