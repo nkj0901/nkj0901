@@ -19,3 +19,6 @@
 ## SNS
 <a href="https://blog.naver.com/nkj0901" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
 <a href="https://www.instagram.com/nkj0901" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a>
+
+## PORTFOLIO
+Preparing...
