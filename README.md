@@ -1,9 +1,14 @@
 ## ✨Hello, I am a developer who is not afraid of novelty✨
 
-#### I am currently studying at "SAMSUNG SW ACADEMY FOR YOUTH".
+#### I am someone who, despite studying in an entirely different field, fearlessly took on the challenge of software development. 
 
-#### I'm studying both back-end and front-end. It hasn't been long since I started, but I'm growing faster than anyone else. Please keep an eye on me.
+#### I successfully completed the Samsung Youth SW Academy 8th program and participated in four different projects, taking on various roles. 
 
+#### With the goal of exploring diverse areas before deciding on my career path, I gained experience in Frontend, Backend, and Blockchain positions. 
+
+#### Through these experiences, I made the decision to pursue a career as a Backend Developer. 
+
+#### Please keep an eye on my journey as I grow and evolve into a skilled Backend Developer.
 
 ## Languages and tools
 <div>
