@@ -1,14 +1,14 @@
-## ✨Hello, I am a developer who is not afraid of novelty✨
+## ✨Hello, I'm Kijung✨
 
-#### I am someone who, despite studying in an entirely different field, fearlessly took on the challenge of software development. 
+##### I am someone who, despite studying in an entirely different field, fearlessly took on the challenge of software development. 
 
-#### I successfully completed the Samsung Youth SW Academy 8th program and participated in four different projects, taking on various roles. 
+##### I successfully completed the Samsung Youth SW Academy 8th program and participated in four different projects, taking on various roles. 
 
-#### With the goal of exploring diverse areas before deciding on my career path, I gained experience in Frontend, Backend, and Blockchain positions. 
+##### With the goal of exploring diverse areas before deciding on my career path, I gained experience in Frontend, Backend, and Blockchain positions. 
 
-#### Through these experiences, I made the decision to pursue a career as a Backend Developer. 
+##### Through these experiences, I made the decision to pursue a career as a Backend Developer. 
 
-#### Please keep an eye on my journey as I grow and evolve into a skilled Backend Developer.
+##### Please keep an eye on my journey as I grow and evolve into a skilled Backend Developer.
 
 ## Languages and tools
 <div>
@@ -42,3 +42,6 @@
 
 ## PORTFOLIO
 <a href="https://www.notion.so/Developer-Portfolio-5164ccfce0e447cf87039a828f43ac00?pvs=4" target="_blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a>
+
+## ALGORITHM
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkj0901)](https://solved.ac/nkj0901)
