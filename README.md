@@ -1,16 +1,6 @@
-## ✨Hello, I'm Kijung✨
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=191970&text=Hello&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=49&desc=%20I'm%20Ki%20jung&descAlign=50&descAlignY=62&descSize=15" />
 
-I am someone who, despite studying in an entirely different field, fearlessly took on the challenge of software development. 
-
-I successfully completed the Samsung Youth SW Academy 8th program and participated in four different projects, taking on various roles. 
-
-With the goal of exploring diverse areas before deciding on my career path, I gained experience in Frontend, Backend, and Blockchain positions. 
-
-Through these experiences, I made the decision to pursue a career as a Backend Developer. 
-
-Please keep an eye on my journey as I grow and evolve into a skilled Backend Developer.
-
-## Languages and tools
+### Languages and tools
 <div>
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,13 +25,13 @@ Please keep an eye on my journey as I grow and evolve into a skilled Backend Dev
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 </div>
 
-## SNS
+### SNS
 
 <a href="https://blog.naver.com/nkj0901" target="_blank">![NaverBlog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white) </a>
 <a href="https://www.instagram.com/nkj0901" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-## PORTFOLIO
+### PORTFOLIO
 <a href="https://www.notion.so/Developer-Portfolio-5164ccfce0e447cf87039a828f43ac00?pvs=4" target="_blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a>
 
-## ALGORITHM
+### ALGORITHM
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkj0901)](https://solved.ac/nkj0901)
