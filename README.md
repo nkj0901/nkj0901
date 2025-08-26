@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=191970&text=Hello&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=49&desc=%20I'm%20Ki%20jung&descAlign=50&descAlignY=62&descSize=15" />
-
 ### Languages and tools
 <div>
   
